@@ -1,3 +1,6 @@
 praw
 pandas
 google-genai
+tensorflow
+numpy
+distutils
