@@ -9,7 +9,7 @@ pretty_name: Reddit Niche Classification Dataset
 
 [![HF Datasets](https://img.shields.io/badge/🤗%20Datasets-published-orange?logo=huggingface&logoColor=white)](https://huggingface.co/datasets/atin5551/reddit-story-niche-classification-dataset)
 [![MIT License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-![Downloads](https://static.pepy.tech/badge/atin5551/reddit-story-niche-classification-dataset)
+> 📥 Downloads last 30 days: **17**
 
 # 🧠 Reddit Niche Classification Dataset
 
