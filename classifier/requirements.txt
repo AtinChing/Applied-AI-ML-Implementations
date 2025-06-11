@@ -1,7 +1,0 @@
-praw
-psaw
-pandas
-google-genai
-tensorflow
-numpy
-distutils
