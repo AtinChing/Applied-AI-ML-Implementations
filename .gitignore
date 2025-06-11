@@ -2,3 +2,6 @@ pers.txt
 .DS_Store
 .venv
 TOKEN
+kaggle.json
+# Ignore Python cache files
+__pycache__/
