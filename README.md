@@ -27,6 +27,7 @@ It includes:
 | `llms/` | Working specifically with large language models (fine-tuning, RAG, prompting, etc.) |
 | `agents/`         | Agent-based systems that handle multi-step workflows autonomously       |
 | `experiments/`    | Scratchpad for prototypes, ideas, in-progress notebooks |
+| `vector_search` | Embeddings, semantic similarity, nearest-neighbor, RAG base |
 
 ## ✅ Key Projects
 
