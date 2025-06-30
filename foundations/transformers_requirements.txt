@@ -1,3 +1,5 @@
 einops
 transformers[sentencepiece]
 torch
+matplotlib
+seaborn
