@@ -52,6 +52,9 @@ pip install -r requirements.txt
 - Linear Regression -  Complete evaluation
 - K Means Clustering - brainstorm
 - Classification - Reevaluate main notebook
+  - From classification.ipynb, for later, add it to this checklist properly: 
+    - Can use LLMs for data-augmentation as well, not just weak supervision. I.e, we can pass our actual existing reddit posts' data into an LLM to give it some ideas and show it some inspiration, and use that to get it to generate more reddit stories that are likely to be viral within a specific chosen niche of our choice.
+    - Additionally, instead of just passing good known stories into a general-purpose LLM (like Gemini or GPT-based LLMs) like we are right now, we could train or fine-tune a domain-specific LLM that is dedicated for this task (generating reddit posts within a specific niche that are likely to go viral).
 - Hidden Markov Models - brainstorm
 - Logistic regression
 - Custom end to end rag pipeline for application
