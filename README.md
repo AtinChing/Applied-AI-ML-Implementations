@@ -49,7 +49,18 @@ pip install -r requirements.txt
 ```
 
 ## Plan for next things to do:
-- Linear Regression -  Some numerical or % thing.
+- Linear Regression -  Complete evaluation
 - K Means Clustering - brainstorm
-- Classification - Shorts/Reddit Niche classification
+- Classification - Reevaluate main notebook
 - Hidden Markov Models - brainstorm
+- Logistic regression
+- Custom end to end rag pipeline for application
+- Complete vector_embeddings.ipynb 
+- Fine tune a Cover Letter writer
+- Add BPE etc to tokenization
+- RNNs
+- LSTMs
+- Computer Vision/
+- deep_learning.ipynb in foundations/
+- neural_networks.ipynb in foundations/ (maybe combine with deep_learning?)
+- Reevaluate transformers.ipynb. Intuition/depth (more specific or detailed explanations, visualisations and applications of attention can be done).
