@@ -56,6 +56,7 @@ pip install -r requirements.txt
 - Logistic regression
 - Custom end to end rag pipeline for application
 - Complete vector_embeddings.ipynb 
+- Reddit niche story NLP-powered classification
 - Fine tune a Cover Letter writer
 - Add BPE etc to tokenization
 - RNNs
