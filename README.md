@@ -25,6 +25,7 @@ It includes:
 | `fine_tuning/`    | LLM fine-tuning (instruction-tuned, domain-specific models)             |
 | `foundation_models/`|	Working with large pretrained general-purpose models (CLIP, SAM, DINO, etc.) via fine-tuning, prompting, PEFT, etc. |
 | `llms/` | Working specifically with large language models (fine-tuning, RAG, prompting, etc.) |
+| `distillation/` | Talk about what distillation is and different types of distillation |
 | `agents/`         | Agent-based systems that handle multi-step workflows autonomously       |
 | `experiments/`    | Scratchpad for prototypes, ideas, in-progress notebooks |
 | `vector_search` | Embeddings, semantic similarity, nearest-neighbor, RAG base |
