@@ -57,7 +57,7 @@ pip install -r requirements.txt
     - Additionally, instead of just passing good known stories into a general-purpose LLM (like Gemini or GPT-based LLMs) like we are right now, we could train or fine-tune a domain-specific LLM that is dedicated for this task (generating reddit posts within a specific niche that are likely to go viral).
 - Hidden Markov Models - brainstorm
 - Logistic regression
-- Custom end to end rag pipeline for application
+- Custom end to end rag pipeline for application (Manim? Moviepy?)
 - Complete vector_embeddings.ipynb 
 - Reddit niche story NLP-powered classification
 - Fine tune a Cover Letter writer
