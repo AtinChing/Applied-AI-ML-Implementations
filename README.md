@@ -66,6 +66,5 @@ pip install -r requirements.txt
 - RNNs
 - LSTMs
 - Computer Vision/
-- deep_learning.ipynb in foundations/
-- neural_networks.ipynb in foundations/ (maybe combine with deep_learning?)
+- √ neural_networks.ipynb in foundations/ (maybe combine with deep_learning?)
 - Reevaluate transformers.ipynb. Intuition/depth (more specific or detailed explanations, visualisations and applications of attention can be done).
