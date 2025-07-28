@@ -61,6 +61,7 @@ pip install -r requirements.txt
 - Custom end to end rag pipeline for application (Manim? Moviepy?)
 - Complete vector_embeddings.ipynb 
 - Reddit niche story NLP-powered classification
+- MTL model that use both non-NLP and NLP classification elements to build a robust classification model that uses ALL fields
 - Fine tune a Cover Letter writer
 - Add BPE etc to tokenization
 - RNNs
