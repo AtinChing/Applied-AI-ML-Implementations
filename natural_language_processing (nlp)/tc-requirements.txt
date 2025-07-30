@@ -4,3 +4,5 @@ evaluate
 accelerate
 numpy
 pandas
+tensorflow
+tf-keras
