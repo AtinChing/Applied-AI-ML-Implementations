@@ -6,3 +6,7 @@ kaggle.json
 # Ignore Python cache files
 __pycache__/
 *.zip
+
+*Tex*
+*.mp4
+*partial_movie_file_list.txt*
