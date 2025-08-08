@@ -1,0 +1,11 @@
+## Why?
+- I've got to give credits to some resources, as they are the main reason I was able to learn, educate, and document my learning so much in the first place. This wouldn't have been possible without the following:
+  - Hugging Face's LLMs course
+  - Hugging Face docs
+  - Cohere's blog post on embeddings
+  - Pinecone's blog post on RAG
+  - OpenAI's docs
+  - Various Medium posts
+  - Tech With Tim's TensorFlow ML course collaboration with FreeCodeCamp
+  - Discord servers for some of the technologies I like to work with (Nari Labs, Kokoro, etc).
+  - ChatGPT's explanations (4o <3)
