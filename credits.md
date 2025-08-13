@@ -5,7 +5,10 @@
   - Cohere's blog post on embeddings
   - Pinecone's blog post on RAG
   - OpenAI's docs
-  - Various Medium posts
   - Tech With Tim's TensorFlow ML course collaboration with FreeCodeCamp
-  - Discord servers for some of the technologies I like to work with (Nari Labs, Kokoro, etc).
+  - Discord servers for some of the technologies I like to work with (Nari Labs, Kokoro, ChatterBox etc).
   - ChatGPT's explanations (4o <3)
+  - Various Medium posts
+    - https://medium.com/analytics-vidhya/understanding-the-mel-spectrogram-fca2afa2ce53
+    - https://medium.com/@zilliz_learn/from-text-to-speech-a-deep-dive-into-tts-technologies-18ea409f20e8
+    - https://rezayazdanfar.medium.com/everything-about-attention-family-644747903c60
